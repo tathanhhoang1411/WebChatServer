@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WORK\\WebChat\\WebChatServer\\WebChatServer\\WebChatServer.csproj": {}
+    "D:\\WORK\\WebChatServer\\WebChatServer\\WebChatServer\\WebChatServer.csproj": {}
   },
   "projects": {
-    "D:\\WORK\\WebChat\\WebChatServer\\WebChatServer\\WebChatServer.csproj": {
+    "D:\\WORK\\WebChatServer\\WebChatServer\\WebChatServer\\WebChatServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WORK\\WebChat\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
+        "projectUniqueName": "D:\\WORK\\WebChatServer\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
         "projectName": "WebChatServer",
-        "projectPath": "D:\\WORK\\WebChat\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
+        "projectPath": "D:\\WORK\\WebChatServer\\WebChatServer\\WebChatServer\\WebChatServer.csproj",
         "packagesPath": "C:\\Users\\cahoi\\.nuget\\packages\\",
-        "outputPath": "D:\\WORK\\WebChat\\WebChatServer\\WebChatServer\\obj\\",
+        "outputPath": "D:\\WORK\\WebChatServer\\WebChatServer\\WebChatServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
