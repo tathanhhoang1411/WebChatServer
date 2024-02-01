@@ -31,5 +31,6 @@ namespace WebChatServer.Hubs
             await LeaveChat();
             await base.OnDisconnectedAsync(exception);
         }
+
     }
 }
