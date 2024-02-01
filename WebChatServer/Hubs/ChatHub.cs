@@ -26,12 +26,10 @@ namespace WebChatServer.Hubs
                 await Clients.Others.SendAsync("ReceiveMessage", user, message);
             }
         }
-
         public override async Task OnDisconnectedAsync(Exception? exception)
         {
             await LeaveChat();
             await base.OnDisconnectedAsync(exception);
-
         }
     }
 }
